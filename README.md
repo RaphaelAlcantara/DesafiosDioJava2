@@ -1,6 +1,6 @@
 # DesafiosDio
 
-<h2>Desafio 1</h2> path: Problem.java
+<h2>Desafio 1</h2> 
 
 <p>Leia 2 valores de ponto flutuante de dupla precisão A e B, que 
 correspondem a 2 notas de um aluno. A seguir, calcule a média do
@@ -22,6 +22,21 @@ Calcule e imprima a variável MEDIA conforme exemplo abaixo, com 5 dígitos apó
 <h2>Desafio 2</h2>
 
 <p>
+Domingo é dia de feira. Logo de manhã muitas pessoas se deslocam para o polo de lazer da Parangaba, onde acontece uma feira, conhecida por ser a maior da cidade. Na feira da Parangaba você pode encontrar de tudo.
 
+Todos os domingos, Bino faz compras na feira. Ele sempre marca com seu amigo Cino de se encontrarem no terminal de ônibus da Parangaba às 8h, para irem juntos comprar na feira. Porém, muitas vezes Bino acorda muito tarde e se atrasa para o encontro com seu amigo.
+
+Sabendo que Bino leva de 30 a 60 minutos para chegar ao terminal. Diga o atraso máximo de Bino.
 </p>
 
+<h3>Entrada</h3>
+<p>
+A entrada consiste em múltiplos casos teste. Cada caso de tese contém uma única linha contendo um horário H (5:00 ≤ H ≤ 9:00) que Bino acordou. A entrada termina com final de arquivo (EOF).
+</p>
+
+<h3>Saída</h3>
+
+<p>
+Para cada caso de teste, imprima "Atraso maximo: X" (sem aspas), X indica o atraso maximo (em minutos) de Bino no encontro com Cino.
+</p>
+img src="https://imgur.com/t/aww/aCJK45L"
