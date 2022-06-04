@@ -19,6 +19,8 @@ de 0 até 10.0, sempre com uma casa decimal.</p>
 Calcule e imprima a variável MEDIA conforme exemplo abaixo, com 5 dígitos após o ponto decimal e com um espaço em branco antes e depois da igualdade. Utilize variáveis de dupla precisão (double) e como todos os problemas, não esqueça de imprimir o fim de linha após o resultado, caso contrário, você receberá "Presentation Error".
 </p>
 
+![image](https://user-images.githubusercontent.com/87040140/172028004-18c5bd6c-a1cc-4348-860f-0a8adcbbb9fc.png)
+
 
 <h2>Desafio 2</h2>
 
@@ -40,6 +42,9 @@ A entrada consiste em múltiplos casos teste. Cada caso de tese contém uma úni
 <p>
 Para cada caso de teste, imprima "Atraso maximo: X" (sem aspas), X indica o atraso maximo (em minutos) de Bino no encontro com Cino.
 </p>
+
+![image](https://user-images.githubusercontent.com/87040140/172028017-edd03d26-c825-4f73-a6c9-8d26c91248f7.png)
+
 
 <h2>Desafio 3</h2>
 
@@ -65,6 +70,9 @@ A primeira linha contém um inteiro N (1 ≤ N ≤ 100). A segunda linha contém
 Imprima uma linha contendo o número da pessoa que Theon deve dizer ser seu algoz. Se existe mais de uma resposta possível, imprima a menor.
 </p>
 
+![image](https://user-images.githubusercontent.com/87040140/172028037-e9df7c44-27b0-441d-8092-d00ab2b509c4.png)
+
+
 <h2>Desafio 4</h2>
 
 <p>Ler um número inteiro N e calcular todos os seus divisores.
@@ -81,6 +89,9 @@ O arquivo de entrada contém um valor inteiro.
 <p>
 Escreva todos os divisores positivos de N, um valor por linha.
 </p>
+
+![image](https://user-images.githubusercontent.com/87040140/172028049-bf171b46-45cb-4a9e-8983-c9dcb74ddb98.png)
+
 
 <h2>Desafio 5</h2>
 
@@ -100,11 +111,17 @@ A entrada contém 2 valores inteiros.
 Exiba a variável PROD conforme exemplo abaixo, tendo obrigatoriamente um espaço em branco antes e depois da igualdade.
 </p>
 
+![image](https://user-images.githubusercontent.com/87040140/172028062-2f450c45-f477-4a1f-9d56-ec801c1c604f.png)
+
+
 <h2>Desafio 6</h2>
 
 <p>
 No tabuleiro de xadrez, a casa na linha 1, coluna 1 (canto superior esquerdo) é sempre branca e as cores das casas se alternam entre branca e preta, formando o formato tão conhecido como xadrez. Dessa forma, como o tabuleiro tradicional tem oito linhas e oito colunas, a casa na linha 8, coluna 8 (canto inferior direito) será também branca. Porém, neste problema, queremos ser capazes de predizer a cor independente do número de linhas e colunas, sendo: L linhas e C colunas. No exemplo da figura, para L = 6 e C = 9, a casa no canto inferior direito será preta, uma simples previsão matemática, não?
 </p>
+
+![image](https://user-images.githubusercontent.com/87040140/172028080-9de0deea-06ef-4fca-a560-45ead9261dee.png)
+
 
 <h3>Entrada</h3>
 
@@ -118,3 +135,5 @@ A segunda linha da entrada contém um inteiro C (1 ≤ C ≤ 1000) representando
 <p>
 Imprima uma linha na saída. A linha deve conter um inteiro, representando a cor da casa no canto inferior direito do tabuleiro, e para identificar, considere o inteiro 1 para a cor branca e 0 para a cor preta.
 </p>
+
+![image](https://user-images.githubusercontent.com/87040140/172028094-e920a4ac-cabf-4176-83ee-5b88041a4c84.png)
