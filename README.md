@@ -39,4 +39,7 @@ A entrada consiste em múltiplos casos teste. Cada caso de tese contém uma úni
 <p>
 Para cada caso de teste, imprima "Atraso maximo: X" (sem aspas), X indica o atraso maximo (em minutos) de Bino no encontro com Cino.
 </p>
-![uma img](https://myoctocat.com/assets/images/base-octocat.svg)
+
+<h2>Desafio 3</h2>
+
+<p><img src="https://imgur.com/t/aww/aCJK45L"></p>
